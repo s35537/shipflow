@@ -1,2 +1,3 @@
-public class SummaryPrintable {
+public interface SummaryPrintable {
+    String buildSummaryLine();
 }
